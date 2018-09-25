@@ -1,0 +1,28 @@
+[
+  {
+    "name": "首页",
+    "type": "home",
+    "key": "/"
+  },{
+    "name": "应用一",
+    "type": "appstore",
+    "key": "/app1"
+  },{
+    "name": "应用二",
+    "type": "appstore",
+    "key": "/app2"
+  },{
+    "name": "应用三",
+    "type": "appstore",
+    "key": "/app3"
+  },{
+    "name": "应用四",
+    "type": "appstore",
+    "key": "/app4"
+  },
+  {
+    "name": "应用五",
+    "type": "appstore",
+    "key": "/app5"
+  }
+]
