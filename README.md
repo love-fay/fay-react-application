@@ -1,2 +1,4 @@
-# fay-react-demo
-fay react demo
+# fay-react-application
+fay react application
+
+### 用于示范
